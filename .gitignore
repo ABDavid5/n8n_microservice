@@ -1,0 +1,17 @@
+# Secrets — keep local, never commit
+keys.py
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Embedded git repo (not a submodule)
+markitdown/
+
+# Local docs / scratch
+CER.pdf
+CER.md
+excalidraw.excalidraw
